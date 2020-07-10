@@ -19,7 +19,7 @@ npm install jlk-cli -g
 | jlk add | 新增模板 | 注意模板必须是上传在github上，且模板地址填写格式为github仓库子路由，如：原仓库地址`https://github.com/atlassian/react-beautiful-dnd/`对应填写地址为:`atlassian/react-beautiful-dnd`  | 
 | jlk delete | 删除模板 | - |
 | jlk list | 查看模板列表 | - |
-| jlk init <template-name> [project-name]  | 从模板初始化工程 | - |
+| jlk init [template-name] [project-name]  | 从模板初始化工程 | - |
 
 ## 更新日志
 
